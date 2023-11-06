@@ -9,6 +9,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         i = 10;
+        Debug.Log("佐々木の変更");
     }
 
     // Update is called once per frame
