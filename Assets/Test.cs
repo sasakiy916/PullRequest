@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-
-    float numbers;
+    public int i;
     // Start is called before the first frame update
     void Start()
     {
-
+        i = 10;
     }
 
     // Update is called once per frame
