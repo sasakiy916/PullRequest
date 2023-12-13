@@ -11,6 +11,7 @@ public class Test : MonoBehaviour
         i = 10;
         Debug.Log("佐々木の変更");
         Debug.Log("saaskiWorkの変更");
+        Debug.Log("saaskiWorkの変更2");
     }
 
     // Update is called once per frame
