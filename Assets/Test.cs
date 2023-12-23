@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    public int i;
+    public string name;
+    public float weight;
+    public int age;
     // Start is called before the first frame update
     void Start()
     {
-        i = 10;
         Debug.Log("佐々木の変更");
         Debug.Log("saaskiWorkの変更");
         Debug.Log("saaskiWorkの変更2");
