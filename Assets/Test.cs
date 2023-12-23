@@ -5,6 +5,7 @@ using UnityEngine;
 public class Test : MonoBehaviour
 {
     public string name;
+    public float weight;
     public int age;
     // Start is called before the first frame update
     void Start()
