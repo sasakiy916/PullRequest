@@ -7,6 +7,7 @@ public class Test : MonoBehaviour
     public string name;
     public float weight;
     public int age;
+    public int text;
     // Start is called before the first frame update
     void Start()
     {
